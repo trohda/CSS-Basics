@@ -1,4 +1,23 @@
+/*****************************
+*
+*Author: Tomasz Rohda
+*Date 08.02.2022
+*
+******************************/
+
+/* Style all P tags */
+
 p{
     font-size: 18px;
     color: red;
+}
+
+#header p{
+    font-size: 24px;
+}
+
+/* Style all header tags */
+
+h1{
+    font-size: 44px;
 }
