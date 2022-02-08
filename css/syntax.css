@@ -1,5 +1,3 @@
-/* If you dot have awesome font it will be next font*/
-
-article h2, article p{
-    font-family: awesome, arial, helvetica, sans-serif;
+a{
+    text-decoration:underline;
 }
