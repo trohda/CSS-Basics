@@ -1,6 +1,11 @@
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color: chocolate;
 }
-body >p{
-    text-transform: uppercase;
+
+#header h2{
+    color: #567398;
+}
+
+#header{
+    background: antiquewhite;
 }
