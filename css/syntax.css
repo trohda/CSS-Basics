@@ -1,13 +1,5 @@
-/*absolute*/
-article{
-    font-size: 16px;
-}
+/* If you dot have awesome font it will be next font*/
 
-/*relative*/
-article h2{
-    font-size: 4em;
-}
-
-article p{
-    font-size: 500%;
+article h2, article p{
+    font-family: awesome, arial, helvetica, sans-serif;
 }
