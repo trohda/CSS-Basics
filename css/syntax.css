@@ -1,22 +1,13 @@
-/* instead of avery type of tag we use * 
-*{
-    color: blue;
+/*absolute*/
+article{
+    font-size: 16px;
 }
 
-overwrite even anchors
-for example  below body dont do this
-
-body{
-    color: red;
+/*relative*/
+article h2{
+    font-size: 4em;
 }
 
-*/
-*{
-    margin: 0;
-    padding: 0;
-    color: black;
+article p{
+    font-size: 500%;
 }
-
-
-
-
