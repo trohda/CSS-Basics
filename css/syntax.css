@@ -1,7 +1,22 @@
-article.featured-content{
-    background: rebeccapurple;
+/* instead of avery type of tag we use * 
+*{
+    color: blue;
 }
 
-div.featured-content{
-    background: blue;
+overwrite even anchors
+for example  below body dont do this
+
+body{
+    color: red;
 }
+
+*/
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+
+
+
