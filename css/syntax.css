@@ -1,3 +1,23 @@
- #all-articles h2 + p{
-     color: green;
+span[class~="deck"]{
+    color: purple;
+}
+
+div[id]{
+    background: grey;
+}
+
+a[title]{
+    color: red;
+}
+
+a[title="Serch engine"]{
+    color: green;
+}
+
+a[href$="pdf"]{
+    color: yellow;
+}
+
+a[href^="http"]{
+    color: pink;
 }
